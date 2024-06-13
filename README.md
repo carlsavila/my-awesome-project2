@@ -9,3 +9,10 @@ J'ai réussi à faire clone, pull et je m'apprête à faire push
 
 On local:
 on new dev branch.
+
+On local:
+I have created a test branch.
+Now I'm working on it to push it.
+
+On Local:
+I have merged test with the remote main.
